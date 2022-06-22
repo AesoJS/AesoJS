@@ -12,12 +12,15 @@
 
 -------------------
   
+<a href="https://app.daily.dev/Aesovac"><img src="https://api.daily.dev/devcards/f58ff05bf1554a0b85984e575ee76c78.png?r=6p2" width="400" alt="Aeso.JS's Dev Card"/></a>
+  
+-------------------
+  
 ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=aesovac&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=aesovac&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
-
   
 -------------------
 <p align="center">
