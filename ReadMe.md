@@ -9,11 +9,7 @@
 -------------------
 
 [![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
-
--------------------
-  
-<a href="https://app.daily.dev/Aesovac"><img src="https://api.daily.dev/devcards/f58ff05bf1554a0b85984e575ee76c78.png?r=6p2" width="400" alt="Aeso.JS's Dev Card"/></a>
-  
+ 
 -------------------
   
 ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=aesovac&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
