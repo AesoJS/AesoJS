@@ -12,9 +12,9 @@
  
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=aesovac&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=AesoJS&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=aesovac&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=AesoJS&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
   
