@@ -8,7 +8,7 @@
 
 -------------------
 
-[![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
+[![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31mm3werls2j7n2aem7lfet3ozge)
  
 -------------------
   
